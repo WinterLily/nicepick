@@ -1,0 +1,102 @@
+[
+  {
+    "emoji": "😀",
+    "keywords": "grinning face",
+    "category": "faces"
+  },
+  {
+    "emoji": "😂",
+    "keywords": "face with tears of joy",
+    "category": "faces"
+  },
+  {
+    "emoji": "😍",
+    "keywords": "smiling face with heart-eyes",
+    "category": "faces"
+  },
+  {
+    "emoji": "🤔",
+    "keywords": "thinking face",
+    "category": "faces"
+  },
+  {
+    "emoji": "👍",
+    "keywords": "thumbs up",
+    "category": "faces"
+  },
+  {
+    "emoji": "👎",
+    "keywords": "thumbs down",
+    "category": "faces"
+  },
+  {
+    "emoji": "🔥",
+    "keywords": "fire",
+    "category": "faces"
+  },
+  {
+    "emoji": "🚀",
+    "keywords": "rocket",
+    "category": "faces"
+  },
+  {
+    "emoji": "🎉",
+    "keywords": "party popper",
+    "category": "faces"
+  },
+  {
+    "emoji": "❤️",
+    "keywords": "red heart",
+    "category": "faces"
+  },
+  {
+    "emoji": "😊",
+    "keywords": "smiling face with smiling eyes",
+    "category": "faces"
+  },
+  {
+    "emoji": "😎",
+    "keywords": "smiling face with sunglasses",
+    "category": "faces"
+  },
+  {
+    "emoji": "😢",
+    "keywords": "crying face",
+    "category": "faces"
+  },
+  {
+    "emoji": "🙏",
+    "keywords": "folded hands",
+    "category": "faces"
+  },
+  {
+    "emoji": "✨",
+    "keywords": "sparkles",
+    "category": "faces"
+  },
+  {
+    "emoji": "💯",
+    "keywords": "hundred points",
+    "category": "faces"
+  },
+  {
+    "emoji": "✅",
+    "keywords": "check mark button",
+    "category": "faces"
+  },
+  {
+    "emoji": "❌",
+    "keywords": "cross mark",
+    "category": "faces"
+  },
+  {
+    "emoji": "⚠️",
+    "keywords": "warning",
+    "category": "faces"
+  },
+  {
+    "emoji": "❓",
+    "keywords": "question mark",
+    "category": "faces"
+  }
+]
